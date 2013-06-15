@@ -1,0 +1,9 @@
+#Dictionary file
+/home/luis/Tuenti/tools-unix-2013-1/bigDictionary
+#Suggestion numbers
+3
+#Find the suggestions
+elvis
+lactoprotein
+nosuggestion
+aaxmcfrbflyfkrfcjxsyhijechpsbpuobwrycfwwgcfcooqflsginrxekwqcposhslewfyjjplqad
